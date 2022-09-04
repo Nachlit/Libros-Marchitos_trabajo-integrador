@@ -1,0 +1,20 @@
+body {background-color: rgb(113, 113, 96);}
+
+.botonera_principal {border-left: 1rem solid rgb(166, 84, 84);
+    background-color: rgb(245, 241, 236);
+padding: 2rem;}
+.botonera_principal ul{list-style-type: square;}
+.botonera_principal li{display:inline-table ;
+padding: 1rem;}
+.botonera_principal a{text-decoration: none;
+color: black;
+font-weight: 700;}
+
+.formulario {margin: 1.5rem;
+    padding: 1rem;
+background-color: rgb(213, 188, 188);
+width: 90%;}
+.formulario_input {width: 90% ;
+    display: block;
+padding: 0.5rem;
+margin-bottom: 0.8;}
